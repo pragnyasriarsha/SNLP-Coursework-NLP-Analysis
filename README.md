@@ -26,3 +26,6 @@ This project performs Natural Language Processing (NLP) analysis on a biography 
 ## Libraries
 ```bash
 pip install spacy nltk scikit-learn
+
+## Author
+Pragnya Sri Arsha
